@@ -21,7 +21,7 @@ const projects = [
     category: "AI/ML",
     accuracy: "85%",
     icon: Brain,
-    image: "/project-1.png",
+    image: "/Project-1.png",
     github: "https://github.com/12220089/Dyslexic-",
     demo: "https://dyslexic-198o.onrender.com",
     features: [
@@ -64,7 +64,7 @@ const projects = [
     tech: ["Next.js", "Node.js", "MongoDB", "OMDb API"],
     category: "Full-Stack",
     icon: Code,
-    image: "/project-3.png",
+    image: "/Project-3.png",
     github: "https://github.com/Somo203/Movie-Rank",
     demo: "https://movie-rank-19q4.vercel.app/",
     features: [
