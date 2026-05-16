@@ -72,7 +72,7 @@ const skillCategories = [
     skills: [
       { name: "React.js",     level: 90, devicon: "react",        variant: "original" },
       { name: "Vue.js",       level: 85, devicon: "vuejs",        variant: "original" },
-      { name: "Tailwind CSS", level: 92, devicon: "tailwindcss",  variant: "plain"    },
+      { name: "Tailwind CSS", level: 92, devicon: "tailwindcss",  variant: "original"    },
       { name: "HTML/CSS",     level: 95, devicon: "html5",        variant: "original" },
     ],
   },
